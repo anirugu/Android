@@ -1,0 +1,21 @@
+# use https://play.google.com/store/apps/details?id=com.jumobile.manager.systemapp to remove all the bloatware apps
+
+#realme added a lot of crap without having any shame. You can't control much. These are few apps that you can remove
+
+pm uninstall -k --user 0 com.google.android.youtube
+pm uninstall -k --user 0 com.google.android.keep
+pm uninstall -k --user 0 com.android.chrome
+pm uninstall -k --user 0 com.google.android.apps.maps
+pm uninstall -k --user 0 com.google.android.gm
+pm uninstall -k --user 0 com.finshell.fin
+pm uninstall -k --user 0 com.heytap.music
+pm uninstall -k --user 0 com.heytap.browser
+pm uninstall -k --user 0 com.coloros.gallery3d
+pm uninstall -k --user 0 com.coloros.video
+pm disable-user --user 0 com.heytap.cloud
+pm uninstall -k --user 0 com.google.android.apps.nbu.paisa.user
+pm uninstall -k --user 0 com.coloros.assistantscreen
+pm disable-user --user 0 com.heytap.market
+pm disable-user --user 0 com.nearme.gamecenter
+pm disable-user --user 0 com.heytap.themestore
+pm uninstall -k --user 0 com.facebook.services

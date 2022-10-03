@@ -1,0 +1,112 @@
+# Apps that can be removed
+
+pm uninstall -k --user 0 com.heytap.browser
+
+pm uninstall -k --user 0 com.google.android.apps.wellbeing
+
+
+pm uninstall -k --user 0 com.google.android.youtube
+
+pm uninstall -k --user 0 com.oppo.partnerbrowsercustomizations
+
+pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+
+pm uninstall -k --user 0 com.google.android.gm
+
+pm uninstall -k --user 0 com.oppo.gmail.overlay
+
+pm uninstall -k --user 0 com.android.chrome
+
+pm uninstall -k --user 0 com.google.android.inputmethod.latin
+
+pm uninstall -k --user 0 com.heytap.usercenter
+
+pm uninstall -k --user 0 com.facebook.system
+
+pm uninstall -k --user 0 com.facebook.services
+
+pm uninstall -k --user 0 com.heytap.cloud
+
+pm uninstall -k --user 0 com.oppo.music
+
+pm uninstall -k --user 0 com.heytap.pictorial
+
+pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle
+
+pm uninstall -k --user 0 com.coloros.video
+
+pm uninstall -k --user 0 com.coloros.phonemanager
+
+pm uninstall -k --user 0 com.coloros.weather2
+
+pm uninstall -k --user 0 com.coloros.weather.service
+
+pm uninstall -k --user 0 com.coloros.gallery3d
+
+pm uninstall -k --user 0 com.android.contacts
+
+pm uninstall -k --user 0 com.redteamobile.roaming
+
+pm uninstall -k --user 0 com.coloros.backuprestore
+
+pm uninstall -k --user 0 com.coloros.uxdesign
+
+pm uninstall -k --user 0 com.tencent.soter.soterserver
+
+pm uninstall -k --user 0 com.android.fmradio
+
+pm uninstall -k --user 0 com.coloros.assistantscreen
+
+pm uninstall -k --user 0 com.nearme.gamecenter
+
+pm uninstall -k --user 0 com.finshell.fin
+
+pm uninstall -k --user 0 com.heytap.music
+
+
+# Apps that can't be removed so disable them
+
+pm disable-user --user 0 com.heytap.themestore
+
+pm disable-user --user 0 com.heytap.market
+
+pm disable-user --user 0 com.google.ar.core
+
+pm disable-user --user 0 com.android.providers.partnerbookmarks
+
+pm disable-user --user 0 com.android.bookmarkprovider
+
+pm disable-user --user 0 com.oppo.qualityprotect
+
+pm disable-user --user 0 com.google.android.partnersetup
+
+pm disable-user --user 0 com.android.wallpaperbackup
+
+pm disable-user --user 0 com.android.printspooler
+
+pm disable-user --user 0 com.android.wallpaper.livepicker
+
+
+pm uninstall -k --user 0 com.heytap.browser
+pm uninstall -k --user 0 com.coloros.video
+pm uninstall -k --user 0 com.coloros.weather2
+pm disable-user --user 0 com.heytap.themestore
+pm uninstall -k --user 0 com.coloros.gallery3d
+pm uninstall -k --user 0 com.heytap.cloud
+pm uninstall -k --user 0 com.google.android.keep
+pm uninstall -k --user 0 com.google.android.apps.maps
+pm uninstall -k --user 0 com.google.android.youtube
+pm uninstall -k --user 0 com.realmecomm.app
+pm uninstall -k --user 0 com.os.docvault
+pm uninstall -k --user 0 com.coloros.gamespaceui
+pm uninstall -k --user 0 com.google.android.videos
+pm uninstall -k --user 0 com.heytap.quickgame
+pm uninstall -k --user 0 com.realme.link
+pm uninstall -k --user 0 com.realmestore.app
+pm uninstall -k --user 0 com.coloros.videoeditor
+pm uninstall -k --user 0 com.google.android.apps.youtube.music
+pm uninstall -k --user 0 com.google.ar.lens
+pm uninstall -k --user 0 com.facebook.katana
+pm uninstall -k --user 0 com.google.android.apps.tachyon
+pm uninstall -k --user 0 com.coloros.onekeylockscreen
+pm uninstall -k --user 0 com.google.android.apps.docs
